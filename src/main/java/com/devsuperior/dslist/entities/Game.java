@@ -110,7 +110,7 @@ public class Game {
 	public void setShortDescription(String shortDescription) {
 		this.shortDescription = shortDescription;
 	}
-
+	
 	public String getLongDescription() {
 		return longDescription;
 	}
